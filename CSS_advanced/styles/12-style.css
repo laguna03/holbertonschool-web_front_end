@@ -36,11 +36,6 @@ body {
     color: var(--text-color);
 }
 
-a {
-text-decoration: none;
-color: inherit;
-}
-
 .visually-hidden{
     display: none;
 }
